@@ -2,7 +2,7 @@
  *
  * Created by: Benjamin Abebe
  * Created on: Sep 2024
- * This program shows Hello World!
+ * This program shows Hello Benjamin!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Benjamin!')
